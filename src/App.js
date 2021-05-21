@@ -6,9 +6,9 @@ import Bodynav from './components/Body.js';
 import Footer from './components/Footer.js';
 
 const objects=[
-  {link:"http://localhost:3000/#home", title:"Home"},
-  {link:"http://localhost:3000/#page2", title:"Page 2"},
-  {link:"http://localhost:3000/#page3", title:"Page 3"}
+  {link:"https://ianstrand.github.io/webd171-4/#home", title:"Home"},
+  {link:"https://ianstrand.github.io/webd171-4/#page2", title:"Page 2"},
+  {link:"https://ianstrand.github.io/webd171-4/#page3", title:"Page 3"}
 ]
 
 class App extends React.Component {
